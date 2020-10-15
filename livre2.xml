@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<livre titre="Mon livre XML">
+ <auteurs>
+   <auteur nom="nom-aut1" prenom="prenom-aut1"/>
+   <auteur nom="nom-aut2" prenom="prenom-aut2"/>
+ </auteurs>
+ <sections>
+   <section titre="Section 1">
+     <chapitre titre="Chapitre 1">
+       <paragraphe>Premier paragraphe</paragraphe>
+       <paragraphe>Deuxième paragraphe</paragraphe>
+     </chapitre>
+     <chapitre titre="Chapitre 2">
+       <paragraphe>Premier paragraphe</paragraphe>
+       <paragraphe>Deuxième paragraphe</paragraphe>
+     </chapitre>
+   </section>
+   <section titre="Section 2">
+     <chapitre titre="Chapitre 1">
+       <paragraphe>Premier paragraphe</paragraphe>
+       <paragraphe>Deuxième paragraphe</paragraphe>
+     </chapitre>
+     <chapitre titre="Chapitre 2">
+       <paragraphe>Premier paragraphe</paragraphe>
+       <paragraphe>Deuxième paragraphe</paragraphe>
+     </chapitre>
+   </section>
+ </sections>
+</livre>
